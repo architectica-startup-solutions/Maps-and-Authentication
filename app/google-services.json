@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773731068440",
+    "firebase_url": "https://rentgetter-95153.firebaseio.com",
+    "project_id": "rentgetter-95153",
+    "storage_bucket": "rentgetter-95153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773731068440:android:49c866c984e961e6",
+        "android_client_info": {
+          "package_name": "com.example.rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773731068440-h9f3mb77oeukjrq3qj3o7cd7atvo9q4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9MUIh9vc2nrH8MlY-sI51eVMyD7quZxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773731068440-h9f3mb77oeukjrq3qj3o7cd7atvo9q4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
